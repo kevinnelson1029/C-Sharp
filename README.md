@@ -1,3 +1,3 @@
 # C-Sharp
 
-This is a program in Intro C# to make a dice game. It was for the midterm.
+These programs are done for the Intro C# course. It was for the midtermand final exam.
